@@ -28,6 +28,10 @@
 LinkedIn: https://www.linkedin.com/in/ashish-kumar-mishra-9837a129a
 Email: ash27mishra@gmail.com
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
 <!--
 **ash972-cpu/ash972-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
