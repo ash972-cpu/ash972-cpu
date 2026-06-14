@@ -32,6 +32,10 @@ Email: ash27mishra@gmail.com
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true)
 <!--
 **ash972-cpu/ash972-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
