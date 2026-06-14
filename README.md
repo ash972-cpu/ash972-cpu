@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ashish Mishra
+# Hi 👋, I'm Ashish Kumar Mishra
 
-🎓 B.Tech CSE Student
+🎓 B.Tech CSE (Data Science) Student
 
 📊 Interested in:
 - Data Analytics
