@@ -36,6 +36,10 @@ Email: ash27mishra@gmail.com
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact)
+
+![Visitors](https://komarev.com/ghpvc/?username=ash972-cpu)
 <!--
 **ash972-cpu/ash972-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
