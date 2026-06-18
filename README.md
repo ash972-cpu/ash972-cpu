@@ -32,6 +32,11 @@ Email: ash27mishra@gmail.com
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
+
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-PowerBI-orange?style=for-the-badge)
 
 ## GitHub Stats
 
