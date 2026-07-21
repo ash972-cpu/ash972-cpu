@@ -99,13 +99,12 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 # 📈 GitHub Statistics
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact&theme=tokyonight"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -121,9 +120,7 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ash972-cpu&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ash972-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
