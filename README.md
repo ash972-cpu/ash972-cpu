@@ -127,12 +127,15 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ash972-cpu/ash972-cpu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
 ---
+
 # 📜 Certifications
 
 🏅 IBM AI SkillsBuild
