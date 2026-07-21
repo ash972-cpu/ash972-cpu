@@ -1,61 +1,165 @@
-# Hi 👋, I'm Ashish Kumar Mishra
+<h1 align="center">Hi 👋, I'm Ashish Kumar Mishra</h1>
+
+<h3 align="center">
+🎓 B.Tech CSE (Data Science) Student | 📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New!" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ash972-cpu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
 
 🎓 B.Tech CSE (Data Science) Student
 
-📊 Interested in:
+📊 Passionate about transforming raw data into meaningful insights using analytics, visualization, and machine learning.
+
+🌱 Currently Learning
+- Machine Learning
+- Statistics for Data Science
+- Data Structures & Algorithms
+- MLOps Fundamentals
+
+💡 Interested In
 - Data Analytics
 - Machine Learning
 - Database Administration
+- Business Intelligence
+- Data Visualization
 
-🌱 Currently Learning:
-- machine learning
+🎯 Career Goal
 
-## Skills
+Become a Data Analyst and Machine Learning Engineer while contributing to impactful real-world projects.
 
+---
+
+# 🚀 Featured Projects
+
+### 🌍 Lucknow Air Quality Analysis
+- Excel
+- Power BI
+- Streamlit
 - Python
+- Interactive Dashboard
+
+### 🛒 E-Commerce Sales Analysis
 - SQL
 - Excel
-- Java
+- Power BI
+- Data Cleaning
+- Business Insights
 
-## Projects
+### 🌱 Campus Sustainability Audit
+- Data Collection
+- Data Visualization
+- Reporting Dashboard
 
-- Air Quality Analysis
-- Campus Sustainability Audit
-- SQL Database Project
+### 🗄 SQL Database Project
+- MySQL
+- Database Design
+- Queries
+- Normalization
 
-## Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/ashish-kumar-mishra-9837a129a
-Email: ash27mishra@gmail.com
+# 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Programming Languages
 
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+</p>
 
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-PowerBI-orange?style=for-the-badge)
+### Data Analytics & Machine Learning
 
-## GitHub Stats
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true)
+### Data Visualization & BI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact)
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=ash972-cpu)
-<!--
-**ash972-cpu/ash972-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 📈 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ash972-cpu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ash972-cpu&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 IBM AI SkillsBuild
+
+🏅 Microsoft AI Skills Passport
+
+🏅 EY AI Learning Program
+
+🏅 Deloitte Data Analytics Job Simulation
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ashish-kumar-mishra-9837a129a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ash27mishra@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> "Data tells a story—I enjoy discovering it and presenting it through meaningful visualizations."
+
+---
+
+⭐ If you like my projects, consider giving them a ⭐ and following my GitHub journey!
