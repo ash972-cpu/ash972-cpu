@@ -98,13 +98,10 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 
 # 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash972-cpu&show_icons=true&theme=tokyonight)
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash972-cpu&layout=compact&theme=tokyonight)
+
 ---
 
 # 🔥 GitHub Streak
