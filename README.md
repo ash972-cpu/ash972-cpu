@@ -114,6 +114,13 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 
 ---
 
+## 🛰 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ash927-cpu&theme=react-dark&hide_border=true" />
+</p>
+
+---
 # 📜 Certifications
 
 🏅 IBM AI SkillsBuild
