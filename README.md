@@ -96,12 +96,18 @@ Become a Data Analyst and Machine Learning Engineer while contributing to impact
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ash972-cpu&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=ash972-cpu&theme=tokyonight&hide_border=true"/>
+---
 
+## 🛰️ Activity Graph
+
+<p align="center">
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/graph?username=ash972-cpu&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
